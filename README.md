@@ -1,4 +1,4 @@
-# Python 30 Days Practice
+# Python 30 Program Practice
 
 This repository contains 30 Python programs
 designed to refresh and strengthen my Python skills.
